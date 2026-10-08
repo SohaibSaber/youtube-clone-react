@@ -1,7 +1,7 @@
 import React from "react";
 import "./RecommendedVideos.css";
 import VideoCard from "./VideoCard";
-import image from "./assets/professional-male-avatar-profile-picture-employee-work_1322206-66523.avif"
+
 
 
 function RecommendedVideos() {
